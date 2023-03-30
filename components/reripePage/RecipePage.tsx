@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './recipePage.module.scss';
-import { coctails } from '@/acets/data';
+import { coctails } from '@/accets/data';
 import Heading from '@/components/heading/Heading';
 
 const recipePage = ({ id }: any) => {

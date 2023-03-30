@@ -1,4 +1,4 @@
-import { coctails } from '@/acets/data';
+import { coctails } from '@/accets/data';
 import Post from '@/components/post/Post';
 import styles from '../styles/Recipes.module.scss';
 import { useState } from 'react';
